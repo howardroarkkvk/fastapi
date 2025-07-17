@@ -1,0 +1,17 @@
+[
+  {
+    "name": "basketball",
+    "price": 700.0,
+    "is_available": true
+  },
+  {
+    "name": "volleyball",
+    "price": 200.0,
+    "is_available": false
+  },
+  {
+    "name": "apple iphone",
+    "price": 67000.0,
+    "is_available": true
+  }
+]
